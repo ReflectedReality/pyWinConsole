@@ -14,5 +14,5 @@
   Console.set_text_color()
   Console.reset_colors()
 
-[See an example.py file](https://github.com/ReflectedReality/pyWinConsole/blob/main/example.py)
+See an example.py file
 
